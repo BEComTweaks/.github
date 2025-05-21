@@ -1,3 +1,5 @@
-We are a team that manages an open-source version of BedrockTweaks, a continuation of DrAv's [Bedrock Tweaks](https://bedrocktweaks.net)
+A fully open-sourced tweak selector for Minecraft: Bedrock Edition.
 
-A live demo is available at [becomtweaks.github.io](https://becomtweaks.github.io)
+BEComTweaks is a hard-fork of DrAv's [Bedrock Tweaks](https://bedrocktweaks.net). [Confused on the differences?](https://becomtweaks.gitbook.io/docs/who-are-we#what-is-the-difference-between-bedrocktweaks-and-becomtweaks)
+
+The website is live at [becomtweaks.github.io](https://becomtweaks.github.io) with the docs available on [GitBook](https://becomtweaks.gitbook.io/docs)
